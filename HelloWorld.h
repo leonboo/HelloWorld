@@ -2,8 +2,10 @@
 
 int main(int argc, char ** argv)
 {
-    printf("---------------------\n");
-    printf("Hello World! Leon Boo! \n");
-    printf("---------------------\n");
-
+    for(int i = 0; i < 10; i++)
+    {
+        printf("---------------------\n");
+        printf("Hello World! Leon Boo! \n");
+        printf("---------------------\n");
+    }
 }
